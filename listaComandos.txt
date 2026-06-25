@@ -1,0 +1,4 @@
+Git clone: sirve para clonar 
+Git status: sirve para verificar el estado de los archivos en el repositorio 
+Git commit: sirve para guardar los cambios del código en el historial del proyecto 
+Git add: sirve para agregar en el repositorio algún archivo 
